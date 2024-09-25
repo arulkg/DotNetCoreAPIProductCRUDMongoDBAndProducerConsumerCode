@@ -1,0 +1,12 @@
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\bin\Debug\net8.0\BOL.deps.json
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\bin\Debug\net8.0\BOL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\bin\Debug\net8.0\BOL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.csproj.AssemblyReference.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\refint\BOL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\BOL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BOL\obj\Debug\net8.0\ref\BOL.dll

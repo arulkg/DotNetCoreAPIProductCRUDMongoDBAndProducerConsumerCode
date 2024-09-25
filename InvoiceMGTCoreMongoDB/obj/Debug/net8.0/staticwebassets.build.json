@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V97fbd/Id7XwXR52brfY6hXEf6vIdKgAhfHOxOolLNo=",
+  "Source": "InvoiceMGTCoreMongoDB",
+  "BasePath": "_content/InvoiceMGTCoreMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

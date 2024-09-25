@@ -1,0 +1,17 @@
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\BAL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\BOL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\DAL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\BOL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Core\InvoiceMGTCoreMongoDB\InvoiceMGTCoreMongoDB\BAL\obj\Debug\net8.0\ref\BAL.dll
